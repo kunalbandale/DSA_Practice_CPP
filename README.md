@@ -8,5 +8,6 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `largestElementInArray.cpp`             | Find largest element in an array            |
 | ✓    | `getSecondLargestAndSecondSmallest.cpp` | Find 2nd largest & 2nd smallest in an array |
 | ✓    | `ArraySortedOrNot.cpp`                  | Check if array is sorted (asc/desc)         |
+| ✓    | `selectionSort.cpp`                     | sort the array using selection sort tech.   |
 |      | _add your next solution here…_          | _brief description…_                        |
 
