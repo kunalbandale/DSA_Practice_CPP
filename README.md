@@ -1,6 +1,13 @@
 ---
 # DSA Practice Checklist
 
+📊 LeetCode Stats
+
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kunalbandale?theme=light&font=baloo)](https://leetcode.com/kunalbandale/)
+
+<hr>
+
 A simple checklist of DSA problems solved in C++.
 
 | Done | File Name                               | Problem Description                         |
