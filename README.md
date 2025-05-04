@@ -15,6 +15,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/ArraySortedOrNot.cpp`                   | Check if array is sorted (asc/desc)         |
 | ✓    | `Array/getSecondLargestAndSecondSmallest.cpp`  | Find 2nd largest & 2nd smallest in an array |
 | ✓    | `Array/largestElementInArray.cpp`              | Find largest element in an array            |
+| ✓    | `Array/removeDuplicatesFromSortedArray.cpp`    | Remove the duplicates elements fron the array in-place |
 
 ## 📁 Sorting
 
