@@ -16,6 +16,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/getSecondLargestAndSecondSmallest.cpp`  | Find 2nd largest & 2nd smallest in an array |
 | ✓    | `Array/largestElementInArray.cpp`              | Find largest element in an array            |
 | ✓    | `Array/removeDuplicatesFromSortedArray.cpp`    | Remove the duplicates elements fron the array in-place |
+| ✓    | `Array/RotateArrayByOnePlace.cpp`    | Rotate the array by one place |
 
 ## 📁 Sorting
 
