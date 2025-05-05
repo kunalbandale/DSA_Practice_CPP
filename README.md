@@ -19,6 +19,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/RotateArrayByOnePlace.cpp`    | Rotate the array by one place |
 | ✓    | `Array/RotateArrayByKPlace.cpp`    | Rotate the array by K place |
 | ✓    | `Array/movingAllZerosAtEnd.cpp`    | From Array move all the zeros at the end |
+| ✓    | `Array/OptimalSolutionForMovingAllZerosAtEnd.cpp`    | From Array move all the zeros at the end |
 
 ## 📁 Sorting
 
