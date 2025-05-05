@@ -29,5 +29,11 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Sorting/insertionSort.cpp`        | Sort the array using insertion sort     |
 | ✓    | `Sorting/selectionSort.cpp`        | Sort the array using selection sort     |
 
+## 📁 Searching
+
+| Done | File Name                          | Problem Description                     |
+|:----:|:-----------------------------------|:----------------------------------------|
+| ✓    | `Searching/linearSearch.cpp`           | search and print the position of the element        |
+
 ---
 
