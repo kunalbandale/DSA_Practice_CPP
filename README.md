@@ -20,7 +20,8 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/RotateArrayByKPlace.cpp`    | Rotate the array by K place |
 | ✓    | `Array/movingAllZerosAtEnd.cpp`    | From Array move all the zeros at the end |
 | ✓    | `Array/OptimalSolutionForMovingAllZerosAtEnd.cpp`    | From Array move all the zeros at the end |
-| ✓    | `Array/thirdLargestNumberArray.cpp.cpp`    | Find the third largest number in the array |
+| ✓    | `Array/thirdLargestNumberArray.cpp`    | Find the third largest number in the array |
+| ✓    | `Array/maxConsecutive1s.cpp`    | Find the max consecitive ones in an binary array |
 
 ## 📁 Sorting
 
