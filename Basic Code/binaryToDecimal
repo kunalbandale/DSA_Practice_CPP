@@ -1,0 +1,22 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main() {
+    int bin = 1111;
+    int power = 0;
+    // int digit;
+    int temp;
+    int decimal = 0;
+
+    while (bin > 0) {
+        temp = bin % 10;
+        decimal += temp * pow(2, power);
+        power++;
+        bin /= 10; 
+    }
+
+    cout << "Decimal equivalent: " << decimal << endl;
+
+    return 0;
+}
