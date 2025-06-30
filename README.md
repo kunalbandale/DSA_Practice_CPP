@@ -24,7 +24,8 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/maxConsecutive1s.cpp`    | Find the max consecitive ones in an binary array |
 | ✓    | `Array/OptimalRotateLeftArrayByDPlaces.cpp`    | Optimal Solution to rotate array by D places |
 | ✓    | `Array/unionOfSortedArray.cpp`    | Union the two sorted array using two pointer apporach |
-| ✓    | `Array/countEvenOddInArray.cpp.cpp`    | Given an array count odd and even in the array |
+| ✓    | `Array/countEvenOddInArray.cpp`    | Given an array count odd and even in the array |
+| ✓    | `Array/containsDuplicateBruteForce.cpp`    | Given an array count odd and even in the array |
 
 ## 📁 Sorting
 
