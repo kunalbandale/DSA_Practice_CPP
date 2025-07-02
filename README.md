@@ -26,7 +26,8 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/unionOfSortedArray.cpp`    | Union the two sorted array using two pointer apporach |
 | ✓    | `Array/countEvenOddInArray.cpp`    | Given an array count odd and even in the array |
 | ✓    | `Array/containsDuplicateBruteForce.cpp`    | Given an array count odd and even in the array |
-| ✓    | `Array/findMissingNumber.cpp.cpp`    | Given an array count odd and even in the array |
+| ✓    | `Array/findMissingNumber.cpp`    |  |
+| ✓    | `Array/findNumberWithEvenDigits.cpp`    |  |
 
 ## 📁 Sorting
 
