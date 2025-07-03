@@ -28,6 +28,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/containsDuplicateBruteForce.cpp`    | Given an array count odd and even in the array |
 | ✓    | `Array/findMissingNumber.cpp`    |  |
 | ✓    | `Array/findNumberWithEvenDigits.cpp`    |  |
+| ✓    | `Array/singleNumber.cpp`    | find single number among the duplicate numbers |
 
 ## 📁 Sorting
 
