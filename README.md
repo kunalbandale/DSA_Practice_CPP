@@ -29,6 +29,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/findMissingNumber.cpp`    |  |
 | ✓    | `Array/findNumberWithEvenDigits.cpp`    |  |
 | ✓    | `Array/singleNumber.cpp`    | find single number among the duplicate numbers |
+| ✓    | `Array/Height Checker`    |  |
 
 ## 📁 Sorting
 
