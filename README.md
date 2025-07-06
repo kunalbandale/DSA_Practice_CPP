@@ -31,6 +31,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/singleNumber.cpp`    | find single number among the duplicate numbers |
 | ✓    | `Array/Height Checker.cpp`    |  |
 | ✓    | `Array/assignCookies.cpp`    |  |
+| ✓    | `Array/runningSum.cpp`    |  |
 
 ## 📁 Sorting
 
