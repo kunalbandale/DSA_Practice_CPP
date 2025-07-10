@@ -32,6 +32,7 @@ A simple checklist of DSA problems solved in C++.
 | ✓    | `Array/Height Checker.cpp`    |  |
 | ✓    | `Array/assignCookies.cpp`    |  |
 | ✓    | `Array/runningSum.cpp`    |  |
+| ✓    | `Array/buySellStock.cpp`    |  |
 
 ## 📁 Sorting
 
